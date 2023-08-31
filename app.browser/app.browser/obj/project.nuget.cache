@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eks8G4c9K6iw16VsJtuF2jDK9apeNhufTSJvpfg1TJKjtXONVCEFYJ2/Mr9KxzDtQAS2ZBT0HvFjMQyE3itrKA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\app.browser\\app.browser\\app.browser\\app.browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\selenium.webdriver.chromedriver\\115.0.5790.10200\\selenium.webdriver.chromedriver.115.0.5790.10200.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\selenium.webdriverbackedselenium\\4.1.0\\selenium.webdriverbackedselenium.4.1.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\kmavillanosa\\.nuget\\packages\\webdrivermanager\\2.16.3\\webdrivermanager.2.16.3.nupkg.sha512"
+  ],
+  "logs": []
+}

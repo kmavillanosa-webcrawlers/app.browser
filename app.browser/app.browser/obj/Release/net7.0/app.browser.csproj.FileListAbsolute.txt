@@ -1,0 +1,16 @@
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\selenium-manager\linux\selenium-manager
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\selenium-manager\macos\selenium-manager
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\selenium-manager\windows\selenium-manager.exe
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\nuget.config
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\app.browser.deps.json
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\app.browser.dll
+D:\GitHub\app.browser\app.browser\app.browser\bin\Release\net7.0\app.browser.pdb
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.csproj.AssemblyReference.cache
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.AssemblyInfoInputs.cache
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.AssemblyInfo.cs
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.csproj.CoreCompileInputs.cache
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.dll
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\refint\app.browser.dll
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\app.browser.pdb
+D:\GitHub\app.browser\app.browser\app.browser\obj\Release\net7.0\ref\app.browser.dll
